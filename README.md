@@ -5,7 +5,7 @@
 
 | # | Link | Description | Due Date |
 |:-:|:----:|:-----------:|:--------:|
-| 0 | HW0 <br/> [ipynb](./hw0/hw0.ipynb), [pdf](./hw0/hw0.pdf), [md](./hw0/hw0.md)  | Familiarity with basic Python through Strings and loops. | Sunday Aug. 30 @ midnight |
+| 0 | HW0 <br/> [starter ipynb](./hw0/hw0_starter.ipynb), [pdf](./hw0/hw0.pdf), [md](./hw0/hw0.md)  | Familiarity with basic Python through Strings and loops. | Sunday Aug. 30 @ midnight |
 | 1 | HW1 <br/> [starter ipynb](./hw1/hw1_starter.ipynb), [pdf](./hw1/hw1.pdf), [md](./hw1/hw1.md)  | Loops, Lists | Sun Sep. 13 @ midnight |
 | 2 | HW2 <br/> [starter ipynb](./hw2/hw2_starter.ipynb), [pdf](./hw2/hw2.pdf), [md](./hw2/hw2.md) | Functions, Files, I/O | Sun Oct. 4 @ midnight |
 | 3 | HW3 <br/> [starter ipynb](./hw3/hw3_starter.ipynb), [pdf](./hw3/hw3.pdf), [md](./hw3/hw3.md) |  TBD | Sun Oct. 18 @ midnight |
